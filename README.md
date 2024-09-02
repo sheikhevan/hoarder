@@ -6,8 +6,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/evfeal/hoarder/stargazers"><img alt="STAR MY REPO" src="https://img.shields.io/github/stars/evfeal/hoarder"></a>
-  <a href="https://github.com/evfeal/hoarder/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPLv3-purple"></a>
+  <a href="https://github.com/sheikhevan/hoarder/stargazers"><img alt="STAR MY REPO" src="https://img.shields.io/github/stars/evfeal/hoarder"></a>
+  <a href="https://github.com/sheikhevan/hoarder/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPLv3-purple"></a>
 </div>
 
 <br/>
