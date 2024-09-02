@@ -8,7 +8,7 @@ fn main() {
         .author("Evan Alvarez")
         .about("The greatest renaming utility the world has ever known")
         .arg(
-            Arg::new("paths")
+            Arg::new("path")
                 .value_name("PATH")
                 .help("Path to the thing(s) you want to be renamed")
                 .required(true)
@@ -23,9 +23,10 @@ fn main() {
         )
         .get_matches();
 
+    let path: Vec<&String> = matches.get_many("path").unwrap().collect();
     if matches.get_flag("directory") {
-        rename_image::directory();
+        rename_image::directory(path);
     } else {
-        rename_image::single();
+        rename_image::single(path);
     }
 }
