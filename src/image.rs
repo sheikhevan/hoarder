@@ -1,4 +1,3 @@
-use std::{fs, path};
 
 pub mod rename_image {
     pub fn single() -> std::io::Result<()> {
