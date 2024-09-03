@@ -28,5 +28,5 @@ fn main() {
         rename_image::directory(path);
     } else {
         rename_image::single(path);
-    }
+    };
 }
