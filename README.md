@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sheikhevan/hoarder/stargazers"><img alt="STAR MY REPO" src="https://img.shields.io/github/stars/evfeal/hoarder"></a>
+  <a href="https://github.com/sheikhevan/hoarder/stargazers"><img alt="STAR MY REPO" src="https://img.shields.io/github/stars/sheikhevan/hoarder"></a>
   <a href="https://github.com/sheikhevan/hoarder/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPLv3-purple"></a>
 </div>
 
@@ -54,6 +54,6 @@ cargo build --release
 
 ### Contributors
 
-<a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=evfeal/hoarder" />
+<a href="https://github.com/sheikhevan/hoarder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sheikhevan/hoarder" />
 </a>
